@@ -1,0 +1,10 @@
+lg_caht_c1_bD_s1_u038-R_004.tiff lg_caht_c1_bD_s1_u038-R_004.tiff 1
+lg_caht_c1_bD_s1_u038-R_004.tiff lg_caht_c1_bD_s1_u038-L_000.tiff 0.482091
+lg_caht_c1_bD_s1_u038-R_004.tiff lg_caht_c1_bD_s1_u009-L_002.tiff 0.261379
+lg_caht_c1_bD_s1_u038-R_004.tiff lg_caht_c1_bD_s1_u009-R_002.tiff 0.48866
+lg_caht_c1_bD_s1_u038-R_004.tiff lg_caht_c1_bD_s1_u030-L_003.tiff 0.359765
+lg_caht_c1_bD_s1_u038-R_004.tiff lg_caht_c1_bD_s1_u001-R_004.tiff 0.458024
+lg_caht_c1_bD_s1_u038-R_004.tiff lg_caht_c1_bD_s1_u035-R_003.tiff 0.651192
+lg_caht_c1_bD_s1_u038-R_004.tiff lg_caht_c1_bD_s1_u013-R_003.tiff 0.460288
+lg_caht_c1_bD_s1_u038-R_004.tiff lg_caht_c1_bD_s1_u004-R_000.tiff 0.888936
+lg_caht_c1_bD_s1_u038-R_004.tiff lg_caht_c1_bD_s1_u018-R_001.tiff 0.954028
